@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning front-end technologies.
 
 - 📫 How to reach me: guptamanan1991@gmail.com
-- 📜 Resume: manan-gup.github.io/resume/
+- 📜 Resume: https://manan-gup.github.io/resume/
 <!--
 **manan-gup/manan-gup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
