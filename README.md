@@ -1,18 +1,20 @@
 ### Hi there 👋
-- 🔭 I'm looking for Data Science roles
-  - I'm proficient in **R and Python**.
-  - I'm knowledgeable about ecology, wildlife, evolution, and **spatial analysis**.
-- ⚡ I’m currently working on creating open source software for data.
-- 🌱 I’m currently learning JavaScript for web-based data analysis and visualization.
+
+- 🔭 I'm looking for Front-end Web Development roles
+  - I'm know **Javascript, Typescript, HTML, CSS, React.js, Node.js, Next.js, Hugo, GraphQL, Git, Webpack, TailwindCSS, BEM CSS**.
+  - I also know **R, Python, and MATLAB**.
+- 🌱 I’m currently learning front-end technologies.
 
 - 📫 How to reach me: guptamanan1991@gmail.com
+- 📜 Resume: manan-gup.github.io/resume/
 <!--
 **manan-gup/manan-gup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
